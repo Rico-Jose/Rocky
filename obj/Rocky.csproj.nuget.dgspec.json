@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rico PC\\Documents\\C#\\Rocky\\Rocky.csproj": {}
+    "C:\\Users\\Rico PC\\Documents\\ASP.NET Core\\Rocky\\Rocky.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rico PC\\Documents\\C#\\Rocky\\Rocky.csproj": {
+    "C:\\Users\\Rico PC\\Documents\\ASP.NET Core\\Rocky\\Rocky.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rico PC\\Documents\\C#\\Rocky\\Rocky.csproj",
+        "projectUniqueName": "C:\\Users\\Rico PC\\Documents\\ASP.NET Core\\Rocky\\Rocky.csproj",
         "projectName": "Rocky",
-        "projectPath": "C:\\Users\\Rico PC\\Documents\\C#\\Rocky\\Rocky.csproj",
+        "projectPath": "C:\\Users\\Rico PC\\Documents\\ASP.NET Core\\Rocky\\Rocky.csproj",
         "packagesPath": "C:\\Users\\Rico PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rico PC\\Documents\\C#\\Rocky\\obj\\",
+        "outputPath": "C:\\Users\\Rico PC\\Documents\\ASP.NET Core\\Rocky\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
