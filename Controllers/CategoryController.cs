@@ -23,9 +23,20 @@ namespace Rocky.Controllers
             return View(objList);
         }
 
+        // GET - Create
         public IActionResult Create()
         {
             return View();
+        }
+
+        // POST - Create
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Create(Category obj)
+            {
+            _db.Category.Add(obj);
+            _db.SaveChanges();
+            return RedirectToAction("Index"); 
         }
     }
 }
