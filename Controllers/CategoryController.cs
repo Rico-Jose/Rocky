@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Rocky.Controllers
 {
-    public class CategoryController1 : Controller
+    public class CategoryController : Controller
     {
         public IActionResult Index()
         {
