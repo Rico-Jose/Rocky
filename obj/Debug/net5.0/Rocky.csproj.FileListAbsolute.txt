@@ -434,3 +434,4 @@ C:\Users\Rico PC\Documents\ASP.NET Core\Rocky\obj\Debug\net5.0\Razor\Views\Categ
 C:\Users\Rico PC\Documents\ASP.NET Core\Rocky\obj\Debug\net5.0\Razor\Views\ApplicationType\Index.cshtml.g.cs
 C:\Users\Rico PC\Documents\ASP.NET Core\Rocky\obj\Debug\net5.0\Razor\Views\ApplicationType\Create.cshtml.g.cs
 C:\Users\Rico PC\Documents\ASP.NET Core\Rocky\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\Rico PC\Documents\ASP.NET Core\Rocky\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
